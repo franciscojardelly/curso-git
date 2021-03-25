@@ -1,4 +1,4 @@
-##Github
-# Este é o primeiro arquivo do curso de git e github para iniciante.
-Segunda edição do arquivo
-Linha 4
+###### Estudando Git e Github ######
+Linha 1 
+Linha 2
+Linha 3
